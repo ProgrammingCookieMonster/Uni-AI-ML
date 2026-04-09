@@ -1,0 +1,6 @@
+Repository to play around with/and research conda, algorithms for search&optimization, and machine learning
+Will possibly be expanded for the course project
+
+Early idea: Discord Bot Agent with generative answers based around a limited learning database.
+Goal: information flow inside the Student Union.
+The deployed version would only figure on the mentioned server.

@@ -1,0 +1,18 @@
+# unnecessary things
+
+# vsc &  workspace
+.vscode/
+*.code-workspace
+
+# jupyter
+.ipynb_checkpoints/
+
+#python
+__pychache__/
+*.pyc
+
+# Macos
+.DS_Store
+
+# Conda
+*.env

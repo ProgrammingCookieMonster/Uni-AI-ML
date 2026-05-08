@@ -16,3 +16,6 @@ __pychache__/
 
 # Conda
 *.env
+
+# packages for ready to deploy models
+*.pkl

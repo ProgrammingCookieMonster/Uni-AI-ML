@@ -19,3 +19,13 @@ __pychache__/
 
 # packages for ready to deploy models
 *.pkl
+
+# Large data files
+*.data
+*.npy
+*.npz
+my_mnist*
+
+# Images folder (downloaded automatically by the notebook)
+images/
+datasets/
